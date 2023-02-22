@@ -1,0 +1,38 @@
+.void-elements, .list-types {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.void-elements-list {
+    width: 50%;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #0066FF;
+}
+
+.test {
+    flex: 1;
+}
+
+.forms {
+    display: flex;
+    
+}
+
+.forms-input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.forms-input label {
+    margin-bottom: 10px;
+}
